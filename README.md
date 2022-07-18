@@ -20,7 +20,8 @@ https://tribute-freecodecamp.netlify.app/
   
 ## Screenshots
 
-![App Screenshot](https://i.im.ge/2022/07/08/ukAbZc.jpg)
+![App Screenshot](![Web capture_18-7-2022_162730_tribute-freecodecamp netlify app](https://user-images.githubusercontent.com/90464288/179497639-59a6537c-f001-499a-a3cf-eb8ed1d1c187.jpeg))
+
 
   
 ## 🔗 Links
