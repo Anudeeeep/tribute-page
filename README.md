@@ -10,8 +10,7 @@ This is replication of Tribute page from freeCodeCamp
 
 ## Demo
 
- https://tribute-freecodecamp.netlify.app/
-
+https://tribute-freecodecamp.netlify.app/
   
 ## Tech Stack
 
